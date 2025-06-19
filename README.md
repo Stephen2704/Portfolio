@@ -1,8 +1,9 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Hamza Farouk Stephen 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Hamza Farouk Stephen 🤓, a freelance Data Analyst with a strong command of Microsoft Excel and Power BI. I specialize in transforming raw data into clear, actionable insights that help businesses make smarter decisions. Whether it’s building dashboards or analyzing trends, I approach every task with focus and determination to deliver my best work.
 
+I’m also highly receptive to feedback—criticism doesn’t discourage me; it helps me grow. My goal is always to improve, adapt, and ensure the final result exceeds expectations
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
