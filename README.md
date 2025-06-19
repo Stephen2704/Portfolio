@@ -3,18 +3,24 @@
 
 Hello! I'm Hamza Farouk Stephen 🤓, a freelance Data Analyst with a strong command of Microsoft Excel and Power BI. I specialize in transforming raw data into clear, actionable insights that help businesses make smarter decisions. Whether it’s building dashboards or analyzing trends, I approach every task with focus and determination to deliver my best work.
 
-I’m also highly receptive to feedback—criticism doesn’t discourage me; it helps me grow. My goal is always to improve, adapt, and ensure the final result exceeds expectations
+I’m also highly receptive to feedback—criticism doesn’t discourage me; it helps me grow. My goal is always to improve, adapt, and ensure the final result exceeds expectations.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a freelance Data Analyst, I offer consulting services to businesses and help them make sense of their data using Excel and Power BI.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Data Cleaning & Preparation.**
+I organize and structure messy data to make it analysis-ready. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Data Visualization.**
+I build interactive dashboards and visuals using Power BI to highlight trends and insights clearly.
+
+**- ✅Reporting & Analysis.**
+I generate reports and extract key insights to support decision-making.
+
+**- ✅ Excel-Based Solutions.**
+I create automated reports, models, and tools using advanced Excel features (formulas, pivot tables, charts, etc).
 
 
 <!--Section 2: List 3-4 key projects-->
