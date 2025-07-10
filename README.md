@@ -29,7 +29,7 @@ I create automated reports, models, and tools using advanced Excel features (for
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](Screeenshot 2025-05-12 101417.png)
+![image](Screeenshot 2025-07-10 072114.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
